@@ -106,7 +106,7 @@
 
 <h3 align="left">🏆 GitHub Trophies</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Htet-Lin-Aung&theme=onedark)](https://github.com/Htet-Lin-Aung/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Htet-Lin-Aung&theme=radical)](https://github.com/Htet-Lin-Aung/github-profile-trophy)
 
 ###
 
