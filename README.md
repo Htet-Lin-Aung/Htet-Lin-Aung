@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Htet Lin Aung, a LAMP stack developer from myanmar.<br><br>- 🔭 I’m working as full stack developer<br>- 📚 I'm currently learning React,React Native and Node js</p>
+<p align="left">I'm Htet Lin Aung, a LAMP and LEMP web developer from myanmar.<br><br>- 🔭 I’m working as full stack developer<br>- 📚 I'm currently learning React,React Native and Node js</p>
 
 ###
 
